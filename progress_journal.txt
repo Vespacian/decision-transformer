@@ -1,0 +1,5 @@
+
+8/3/25
+- need to get mujico (readme-gym.md)
+- read over the DT paper again
+- note down the hparams
